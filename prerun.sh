@@ -1,3 +1,3 @@
-pip install pytest
-pip install playwright
-playwright install
+#!/bin/sh
+
+echo "Sleeping for 30 seconds"
